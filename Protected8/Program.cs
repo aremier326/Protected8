@@ -126,6 +126,7 @@ namespace Protected8
             }
         }
 
+        //5
         private static void FifthTask()
         {
             Random rand = new Random();
